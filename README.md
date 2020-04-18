@@ -1,6 +1,6 @@
 # Project 3
 
-Author: Jeff Quittman Project: P#2 - Password Generator Date: April 2020
+Author: Jeff Quittman Project: P#3 - Password Generator Date: April 2020
 
 ## Description:
 
