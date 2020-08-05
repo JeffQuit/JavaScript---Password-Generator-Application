@@ -15,7 +15,7 @@ Index.html style.css script.js
 
 ## Installation:
 
-Access Index.html via the URL https://github.com/JeffQuit/pwgen04162020 No additional steps necessary to navagate the website
+Access Index.html via the URL https://jeffquit.github.io/JavaScript---Password-Generator-Application/ No additional steps necessary to navagate the website
 
 ## Additions:
 
@@ -24,7 +24,7 @@ https://www.w3schools.com/howto/howto_js_copy_clipboard.asp.
 
 ## Additional Links
 
-Github Repo Link: https://github.com/JeffQuit/pwgen04162020
+Github Repo Link: https://github.com/JeffQuit/JavaScript---Password-Generator-Application
 
 ## Authors:
 
