@@ -9,6 +9,10 @@ and confirm pop-ups and the user has to select the length of the password and be
 loops through a new array composed of the merged arrays from the formatting options and uses the length submitted as the character length. Input validation is set up to ensure that the user submites
 the correct parameters for the password.
 
+## Demo:
+
+![Password Generator Demo](PWGen/https://s7.gifyu.com/images/PWGen.gif)
+
 ## Contents:
 
 Index.html style.css script.js
