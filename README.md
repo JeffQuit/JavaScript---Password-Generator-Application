@@ -11,7 +11,7 @@ the correct parameters for the password.
 
 ## Demo:
 
-![Password Generator Demo](PWGen/https://s7.gifyu.com/images/PWGen.gif)
+![Password Generator Demo](https://s7.gifyu.com/images/PWGen.gif)
 
 ## Contents:
 
